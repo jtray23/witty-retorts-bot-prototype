@@ -1,0 +1,18 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+
+[packages]
+
+aiohttp = "1.0.5"
+async-timeout = "2.0.1"
+chardet = "3.0.4"
+discord.py = "0.16.12"
+multidict = "4.2.0"
+websockets = "3.4"
+
+[requires]
+
+python_version = "3.6"
