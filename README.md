@@ -37,7 +37,7 @@ As a result, Witty Retorts forces players to rely on their own sense of humor mo
    2. If the judge forgets to DM the winning retort or runs out of time, then **no winner** is chosen, and the judge will be taken out of the game, and will need to re-join the game to play in the next round.
    ![Round Summary](https://i.imgur.com/pZx8DKz.gif)
 
-**At any point in the round, if the player count falls below 3, then the round will terminate early and the bot will waits for more players to join the game efore stating a new round.**
+**At any point in the round, if the player count falls below 3, then the round will terminate early and the bot will wait for more players to join the game before stating a new round.**
 
 ## Setup
 
