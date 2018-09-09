@@ -35,7 +35,7 @@ As a result, Witty Retorts forces players to rely on their own sense of humor mo
 4. After the timer for sending retorts expires, the judge then has **up to 60 seconds** to DM the WittyRetortsBot with the number of the winning retort (the round ends when time is up or when judge picks the winning retort).
    1. If a winner is chosen, that player is credited with 1 BrawndoCoin on the High Scores roster.
    2. If the judge forgets to DM the winning retort or runs out of time, then **no winner** is chosen, and the judge will be taken out of the game, and will need to re-join the game to play in the next round.
-   ![Round Summary](https://i.imgur.com/cA5C8Y0.gifv)
+   ![Round Summary](https://im3.ezgif.com/tmp/ezgif-3-f57b0c39ed.gif)
 
 **At any point in the round, if the player count falls below 3, then the round will terminate early and the bot will waits for more players to join the game efore stating a new round.**
 
